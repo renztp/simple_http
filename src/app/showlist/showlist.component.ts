@@ -11,8 +11,9 @@ import { Http, Response } from '@angular/http';
   templateUrl: './showlist.component.html',
   styleUrls: ['./showlist.component.css']
 })
+
+
+
 export class ShowlistComponent implements OnInit {
-
-	
-
+  ngOnInit(){}
 }
